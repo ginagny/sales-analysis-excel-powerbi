@@ -1,5 +1,6 @@
 # sales-analysis-excel-powerbi
 Sales data analysis and dashboard using Excel and Microsoft Power BI.
+
 🧩 Project Overview
 This Power BI dashboard visualizes revenue-related metrics from a multinational supermarket sales dataset across multiple dimensions: time, location, product line, sales method, and urgency status. The goal of this project is to uncover revenue patterns and business opportunities based on product performance and regional contributions.
 
@@ -36,7 +37,9 @@ Designed a multi-page dashboard:
 - Regional Expansion: Use country-level revenue data to drive global growth strategies
 
 <img width="776" height="440" alt="image" src="https://github.com/user-attachments/assets/f81ce9df-1f1e-416b-86cf-c35d9d36d38c" />
+
 <img width="776" height="438" alt="image" src="https://github.com/user-attachments/assets/4a42bfb3-62e5-43a0-aa8d-ab901549eee0" />
+
 <img width="767" height="436" alt="image" src="https://github.com/user-attachments/assets/5e4eae80-b378-4af6-9165-1d7c68081fe9" />
 
 
