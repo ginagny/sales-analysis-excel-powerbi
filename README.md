@@ -36,12 +36,6 @@ Designed a multi-page dashboard:
 - Time-Based Campaigns: Use seasonal peaks for promotions
 - Regional Expansion: Use country-level revenue data to drive global growth strategies
 
-<img width="776" height="440" alt="image" src="https://github.com/user-attachments/assets/f81ce9df-1f1e-416b-86cf-c35d9d36d38c" />
-
-<img width="776" height="440" alt="image" src="https://github.com/user-attachments/assets/5d70be8a-4758-4d0c-85d5-d5a0f33f5a19" />
-
-<img width="776" height="440" alt="image" src="https://github.com/user-attachments/assets/e6f9253c-f7f0-4834-9543-ea1255dc66c9" />
-
 
 
 
