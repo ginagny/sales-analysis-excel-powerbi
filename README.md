@@ -40,7 +40,8 @@ Designed a multi-page dashboard:
 
 <img width="776" height="440" alt="image" src="https://github.com/user-attachments/assets/5d70be8a-4758-4d0c-85d5-d5a0f33f5a19" />
 
-<img width="776" height="440" alt="image" src="https://github.com/user-attachments/assets/606ce7f7-a572-4a75-bb97-0a2f29c6b930" />
+<img width="776" height="440" alt="image" src="https://github.com/user-attachments/assets/e6f9253c-f7f0-4834-9543-ea1255dc66c9" />
+
 
 
 
